@@ -1,0 +1,39 @@
+body {
+    background-color: #d3d3d3;
+}
+
+.divpai {
+    height: 500px;
+    width: 50vw;
+    border-style: dotted;
+    border-color: black;
+    border-width: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.div1 {
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+
+}
+
+.div2 {
+    background-color: rgb(180, 129, 35);
+    height: 100px;
+    width: 30%;
+
+}
+
+.div3 {
+    background-color: rgb(93, 192, 93);
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+
